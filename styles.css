@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+#content{
+    padding: 100px;
+}
+
+.toggle{
+    background-color: #fff;
+    color: #000;
+
+}
